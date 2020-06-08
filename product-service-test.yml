@@ -10,5 +10,5 @@ spring:
     name: product-service
 
 
-env: test2020
+env: test
 branch: master
