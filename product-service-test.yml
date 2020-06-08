@@ -11,4 +11,4 @@ spring:
 
 
 env: test
-branch: master
+branch: test
